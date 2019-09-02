@@ -1,0 +1,30 @@
+
+html {
+  font-size: 100%;
+  height: 100%;
+}
+body {
+	
+	font-family: Roboto, 'Open Sans', Arial, sans-serif;
+	font-size: 15px;
+	
+}
+
+
+*{
+                
+   font-family: "Tahoma";
+}
+            
+#login-panel{
+     width: 500px;
+     margin: 100px auto;	 
+}
+
+.desp:hover{
+    outline: none;
+		background-color: gray;
+}
+            
+
+            
